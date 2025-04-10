@@ -1,6 +1,6 @@
 from twilio.rest import Client
 import config
-
+#Twilio? SMS? I need answers
 #   This file holds a function to call a player with a statement. In this case, finding a shiny.
 #
 #   Setup:
