@@ -1,2 +1,1 @@
-# pokeBot
-Depricated
+# ChinPokomon MMO Farmer Bot Ideas.
